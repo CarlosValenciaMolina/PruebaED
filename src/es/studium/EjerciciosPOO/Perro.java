@@ -6,7 +6,7 @@ public class Perro
 	private float tamano;
 	private int edad;
 	private String color;
-	
+	// Comentario
 	public Perro() 
 	{
 		raza = new Raza();
